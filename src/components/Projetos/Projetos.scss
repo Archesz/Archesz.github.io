@@ -1,7 +1,6 @@
 .projetos-container{
     width: 100%;
     border-radius: 12px;
-    min-height: 160px;
     height: auto;
     background-color: #202024;
     padding: 20px 20px;
@@ -89,6 +88,47 @@
             &:hover{
                 transition:.8s;
                 color: rgb(134, 27, 134);
+            }
+        }
+    }
+}
+
+@media (max-width: 426px) {
+    .projetos-container{
+        height: auto;
+    }
+
+    .projeto-container{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    
+        .projeto-infos{
+            display: flex;
+            width: 100%;
+            flex-direction: column;
+            border: none;
+            margin-top: 12px;    
+            margin-bottom: 12px;
+        
+                    
+            .projeto-descript{
+                color: white;
+                height: auto;
+            }
+
+        }
+        
+        .projeto-skills{
+
+            display: flex;
+            flex-direction: column;
+            padding-left: 0px;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            height: auto;
+            .projeto-utility{
+                display: inline-block;
             }
         }
     }

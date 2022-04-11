@@ -1,5 +1,4 @@
 import React from 'react'
-import Main from '../components/Main/Main'
 import Perfil from '../components/Perfil/Perfil'
 import About from '../components/About/About'
 import Skills from '../components/Skills/Skills'

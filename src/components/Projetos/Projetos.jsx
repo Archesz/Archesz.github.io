@@ -40,19 +40,19 @@ function Projetos() {
                 
             </div>
 
-        <div className="experiences-count">
-          {projetos.map((projeto) => {
-            if(projeto.id == value){
-              return(
-                <div className="count-mark"></div>
-              )
-            } else{
-              return(
-                <div className="count-mark disable" id={projeto.id} onClick={() => {changeProject(projeto.id)}}></div>
-              )
-            }
-          })}
-        </div>
+            <div className="experiences-count">
+              {projetos.map((projeto) => {
+                if(projeto.id == value){
+                  return(
+                    <div className="count-mark"></div>
+                  )
+                } else{
+                  return(
+                    <div className="count-mark disable" id={projeto.id} onClick={() => {changeProject(projeto.id)}}></div>
+                  )
+                }
+              })}
+            </div>
 
         </div>
     )

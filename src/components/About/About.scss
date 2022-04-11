@@ -30,10 +30,11 @@
 
         .about-socials{
             width: 90%;
-            height: 36px;
+            height: auto;
             margin-top: 20px;
             display: flex;
             flex-direction: row;
+            flex-wrap: wrap;
             align-items: center;
         }
     }

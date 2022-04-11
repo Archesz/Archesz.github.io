@@ -100,3 +100,35 @@
         }
     }
 }
+
+@media (max-width: 426px){
+    #experiences-container{
+        height: auto;
+    }
+
+    .experience-container{
+        display: flex;
+        height: auto;
+        flex-direction: column;
+        align-items: center;
+        justify-content:center;
+    }
+
+    .experience-infos{
+        margin-top: 12px;
+        text-align: left;
+        height: auto;
+
+        .experience-descript{
+            height: 600px;
+        }
+    }
+
+    .experiences-count{
+        margin-top: 50px;
+    }
+    
+    .icon-next{
+        display: none;
+    }
+}
