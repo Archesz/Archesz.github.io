@@ -1,0 +1,54 @@
+.badge-container{
+    padding: 10px 12px;
+    background-color: #29292E;
+    margin-right: 12px;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    border-radius: 12px;
+    align-items: center;
+    text-decoration: none;
+    &:hover{
+        transition: .8s;
+        filter: brightness(2);
+    }
+
+    .badge-icon{
+        margin-right: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-size: 24px;
+    }
+    
+    .badge-name{
+        color: white;
+        margin-right: 8px;
+        font-weight: bolder;
+    }
+}
+
+.badge-skill{
+    padding: 8px 10px;
+    background-color: #5d5de0;
+    margin-right: 12px;
+    margin-top: 12px;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    border-radius: 12px;
+    align-items: center;
+    text-decoration: none;
+    &:hover{
+        transition: .4s;
+        filter: drop-shadow(4px 4px 8px black);
+    }
+
+    .badge-name{
+        color: white;
+        margin-right: 8px;
+        font-weight: bolder;
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,45 @@
+#sidebar-container{
+    height: 100%;
+    background-color: rgb(243, 243, 243);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .sidebar-header{
+        width: 100%;
+        margin-top: 40px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .sidebar-photo{
+        width: 160px;
+        height: 160px;
+        border-radius: 50%;
+        background-color: black;
+    }
+
+    .sidebar-baseinfos{
+        margin-top: 30px;
+        width: 80%;
+        height: auto;        
+    }
+}
+
+.expand{
+    transition: .8s;
+    width: 320px;
+}
+
+.reduce{
+    transition: .8s;
+    width: 30px;
+}
+
+.noView{
+    display: none;
+}
+
+.onView{
+    display: flex;
+}

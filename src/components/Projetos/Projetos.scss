@@ -1,0 +1,95 @@
+.projetos-container{
+    width: 100%;
+    border-radius: 12px;
+    min-height: 160px;
+    height: auto;
+    background-color: #202024;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    box-shadow: 6px 6px 12px black;
+
+    .projetos-title{
+        font-weight: bolder;
+        color: white;
+        font-size: 36px;
+    }
+
+    .experiences-count{
+        display: flex;
+        flex-direction: row;
+        width: 70%;
+        margin-top: 25px;
+    }
+
+    .count-mark{
+        cursor: pointer;
+        width: 12px;
+        height: 12px;
+        border-radius: 6px;
+        background-color: rgb(70, 80, 221);
+        margin-right: 12px;
+    }
+
+    .disable{
+        background-color: #aaaabc;
+    }
+
+}
+
+.projeto-container{
+    display: flex;
+    flex-direction: row;
+
+    .projeto-infos{
+        display: flex;
+        width: 70%;
+        flex-direction: column;
+        border-right: 1px solid rgb(255, 255, 255);
+        padding-right: 20px;
+        margin-top: 12px;
+        
+        .projeto-name{
+            font-weight: bolder;
+            color: white;
+            font-size: 24px;
+        }
+
+        .projeto-data{
+            font-weight: bold;
+            color: aliceblue;
+            margin-top: 6px;
+        }
+
+        .projeto-descript{
+            margin-top: 6px;
+            color: white;
+            height: 160px;
+        }
+    }
+
+    .projeto-skills{
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+
+        .projeto-utility{
+            font-weight: bold;
+            font-size: 20px;
+            color: white;
+            margin-bottom: 12px;
+        }
+
+        .li-skill{
+            font-weight: bold;
+            color: white;
+            list-style-type: none;
+            cursor: pointer;
+            &:hover{
+                transition:.8s;
+                color: rgb(134, 27, 134);
+            }
+        }
+    }
+}

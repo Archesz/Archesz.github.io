@@ -1,0 +1,66 @@
+{
+    "Experiences": [
+        {
+            "id": 1,
+            "title": "Iniciação Científica", "enterprise": "CNPQ", 
+            "resume": "Durante a iniciação científica na Faculdade de Engenharia Eletríca e da Computação, orientado pela professora Letícia Rittner, realizo um projeto de processamento de imagens médicas de tensores de difusão. Aplicando métodos matemáticos e construindo uma ferramenta Open Source para o uso dos métodos.", 
+            "url": "https://uninta.edu.br/site/conteudo/arquivos/2016/08/ic-01-1024x1024.png"
+        },
+        {
+            "id": 2,
+            "title": "Monitor (PAD) De Programação", "enterprise": "Unicamp", 
+            "resume": "Durante o 2º semestre de 2021, fui monitor (pad) da disciplina 'Algoritmos de Programação' na Unicamp. A disciplina se tratava da introdução à lógica e linguagem Python, ensinando os principais conceitos, estrutura e uso. Desempenhei o papel de auxiliar os alunos com dúvidas e ensina-los assuntos necessários.", 
+            "url": "https://www.ige.unicamp.br/aapg/wp-content/uploads/sites/32/2016/02/Logo_Unicamp_Blanco.png"
+        },
+        {
+            "id": 3,
+            "title": "Cientista de Dados", "enterprise": "Quanta Jr", 
+            "resume": "Atuais na Empresa Junior como parte do time de projetos, desempenhando o papel de Cientista e Analista de Dados. Realizando etapas de coleta de dados (Web), tratamento, análise e construindo modelos de Machine Learning para alcançar resultados solicitados.", 
+            "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFAFqf3EMSq7w/company-logo_200_200/0/1577384208757?e=2147483647&v=beta&t=K2P04uuLWxaqZ0LfEZ27kkJqmwAi2dO_Fx1jpY8zea0"
+        },
+        {
+            "id": 4,
+            "title": "Conselheiro Estratégico", "enterprise": "Quanta Jr", 
+            "resume": "Após o tempo como membro da Quanta Jr, entrei no time de conselheiros estratégicos da Empresa Junior. Atuando na frente de análises e conselhos do time de Projetos, auxiliando com a organização, planejamento, direcionamento de metas e treinamento de membros.", 
+            "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFAFqf3EMSq7w/company-logo_200_200/0/1577384208757?e=2147483647&v=beta&t=K2P04uuLWxaqZ0LfEZ27kkJqmwAi2dO_Fx1jpY8zea0"
+        },
+        {
+            "id": 5,
+            "title": "Desenvolvedor", "enterprise": "Herbert de Souza", 
+            "resume": "De maneira voluntária, desenvolvi sistemas e website para o Cursinho Herbert de Souza. Os sistemas incluem formulário de matrícula de alunos, automatização de tarefas, consumo de API's, registro de tarefas e desenvolvimento de plataforma EAD.", 
+            "url": "data:image/png;base64,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"
+        }
+    ], 
+    "Projetos": [
+        {
+        "id": 1, "name": "GoFlux", "data": "2021-2022", 
+        "skills": ["Pandas", "Numpy", "Scikit Learn", "Plotly"], 
+        "descript": "Para uma empresa de transporte e entrega, foi utilizado o banco de dados da empresa para realizar um aprendizado de máquina que encontrava o melhor valor e a se cobrar dado alguns fatores, encontrando o melhor valor que o cliente aceitaria pagar."
+        },
+        {
+        "id": 2, "name": "UFBA", "data": "2021-2022", 
+        "skills": ["Python", "Pandas", "Web Scraping", "Storytelling", "Analise de dados"], 
+        "descript": "Em conjunto ao grupo de pesquisa da UFBA, foi realizado coleta de dados (Web Scraping) de notícias e tweets a respeito do governo Bolsonaro. Foi realizado uma análise a cerca desses dados, encontrando vieses, relações e entregando insights aos pesquisadores."
+        },
+        {
+        "id": 3, "name": "Dashboard", "data": "2021-2022", 
+        "skills": ["Python", "Power BI", "Excel"], 
+        "descript": "Devido a grande quantidade de dados e informações que a empresa possuia, foi realizado uma construção de Dashboard para a mesma. O dashboard teve o objetivo de encontrar, analisar e entregar resultados para que o time de gerenciamento pudesse organizar melhor suas equipes e produtos."
+        },
+        {
+        "id": 4, "name": "T2 Web Scraping", "data": "2021-2022", 
+        "skills": ["Python", "Web Scraping", "API", "Automação de tarefas"], 
+        "descript": "Foi construído um sistema de coleta de dados automática do site da OLX. O sistema coletava informações a respeito de veículos, desde modelo, marca, preço, entre outros. Em seguida foi realizado uma automatização parav verificar cada dado coletado e comparar com os mesmos veiculos em outro banco de dados."
+        },
+        {
+        "id": 5, "name": "Game Image Proccess", "data": "2021-2022", 
+        "skills": ["Python", "Numpy", "C", "Unity"], 
+        "descript": "Em conjunto com o mentor Hallison Paz (Alforriah), foi desenvolvido um jogo baseado no processamento de imagens. O usuário desenha uma imagem em uma folha de papel e submete ao site, que transforma o desenho do usuário em um mapa jogável."
+        },
+        {
+        "id": 6, "name": "Plataforma Ask", "data": "2021-2022", 
+        "skills": ["Javascript", "Node", "React", "SCSS", "Python", "Banco de Dados"], 
+        "descript": "Seguindo Rocketseat, foi desenvolvido uma plataforma Web moderna completa. Os usuários podem se cadastrar e logar, realizar e responder perguntas, entrar em salas de tópicos específicos e debater. A plataforma se encontra em: ..."
+        }
+    ]
+}
