@@ -63,7 +63,7 @@
         "descript": "Em conjunto com o mentor Hallison Paz (Alforriah), foi desenvolvido um jogo baseado no processamento de imagens. O usuário desenha uma imagem em uma folha de papel e submete ao site, que transforma o desenho do usuário em um mapa jogável."
         },
         {
-        "id": 6, "name": "Plataforma Ask", "repository": "https://github.com/Archesz/softwareInccsight", 
+        "id": 6, "name": "Portfolio", "repository": "https://github.com/Archesz/portfolio-page", 
         "tipo": "Machine Learning",
         "skills": ["Javascript", "Node", "React", "SCSS", "Python", "Banco de Dados"], 
         "descript": "Seguindo Rocketseat, foi desenvolvido uma plataforma Web moderna completa. Os usuários podem se cadastrar e logar, realizar e responder perguntas, entrar em salas de tópicos específicos e debater. A plataforma se encontra em: ..."
