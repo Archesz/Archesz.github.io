@@ -18,9 +18,7 @@ function Home() {
 
         <div className="main">
 
-          <Menu />
-
-          <h2 className="apresentation">Hello, i am jovi :)</h2>
+          <h2 className="apresentation">Hello, i am jovi!</h2>
 
           <About />
           <Skills/>

@@ -40,7 +40,7 @@
         },
         {
         "id": 2, "name": "UFBA", "repository": "https://github.com/Archesz/softwareInccsight", 
-        "tipo": "Machine Learning",
+        "tipo": "Web Scraping | Analise de Dados",
         "skills": ["Python", "Pandas", "Web Scraping", "Storytelling", "Analise de dados"], 
         "descript": "Em conjunto ao grupo de pesquisa da UFBA, foi realizado coleta de dados (Web Scraping) de notícias e tweets a respeito do governo Bolsonaro. Foi realizado uma análise a cerca desses dados, encontrando vieses, relações e entregando insights aos pesquisadores."
         },

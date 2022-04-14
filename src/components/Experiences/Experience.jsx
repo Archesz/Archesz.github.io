@@ -4,7 +4,7 @@ import {AiOutlineRight} from 'react-icons/ai'
 
 function Experience(props) {
   return (
-    <div className="experience-container">
+    <div className="experience-container" onClick={props.next}>
       
       <div className="experience-logo" style={{backgroundImage: `url(${props.url})`}}>
 

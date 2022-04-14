@@ -22,6 +22,7 @@ function Perfil() {
             <span className="perfil-name">{infos.Nome}</span>
             <span className="perfil-nick">{infos.Apelido}</span>
             <span className="perfil-student">{infos.Curso}</span>
+            <span className="perfil-university">Unicamp</span>
 
             <div className="perfil-address">
                 <BiMap />
