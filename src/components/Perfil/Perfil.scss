@@ -121,6 +121,23 @@
             justify-content: space-around
         }
     }
+
+    .btn-more{
+        background: none;
+        color: white;
+        font-size: 18px;
+        border: none;
+        cursor: pointer;
+        border-radius: 6px;
+        padding: 8px 16px;
+        background-color: #3a3a3a;
+        box-shadow: 4px 4px 6px black;
+
+        &:hover{
+            transition: .8s;
+            filter: brightness(2);
+        }
+    }
 }
 
 @media (max-width: 768px){

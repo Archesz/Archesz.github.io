@@ -6,6 +6,7 @@ import Skills from '../components/Skills/Skills'
 import '../styles/home.scss'
 import Experiences from '../components/Experiences/Experiences'
 import Projetos from '../components/Projetos/Projetos'
+import Menu from '../components/Menu/Menu'
 
 function Home() {
   return (
@@ -16,6 +17,9 @@ function Home() {
         </div>
 
         <div className="main">
+
+          <Menu />
+
           <h2 className="apresentation">Hello, i am jovi :)</h2>
 
           <About />

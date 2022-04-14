@@ -32,7 +32,7 @@ function Skills() {
           </div>
 
           <div className="skills-right">
-            <span onClick={() => {openSkill("hard")}}>Ver todos</span>
+            <span onClick={() => {openSkill("hard")}}>Ver outras</span>
           </div>
 
         </div>
@@ -56,7 +56,7 @@ function Skills() {
           </div>
 
           <div className="skills-right">
-            <span onClick={() => {openSkill("soft")}}>Ver todos</span>
+            <span onClick={() => {openSkill("soft")}}>Ver outras</span>
           </div>
 
         </div>

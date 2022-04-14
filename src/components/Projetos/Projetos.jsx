@@ -33,7 +33,7 @@ function Projetos() {
                 {projetos.map((projeto) => {
                     if(projeto.id == value){
                         return(
-                            <Projeto name={projeto.name} data={projeto.data} skills={projeto.skills} descript={projeto.descript}/>
+                            <Projeto next={nextValue} name={projeto.name} tipo={projeto.tipo} repository={projeto.repository} skills={projeto.skills} descript={projeto.descript}/>
                         )
                     }
                 })}                

@@ -11,6 +11,7 @@
         {"name": "C", "url": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png", "color": "659AD2"},
         {"name": "Excel", "url": "https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png", "color": "3A3A3A"},
         {"name": "Node", "url": "https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png", "color": "3A3A3A"}
+
     ],
     "Soft": [
         "Pesquisa", "Matemática", "Machine Learning", "Didática", "Ciência de Dados", "Web Scraping", "Programação", "Processamento de Imagens", "Visão Computacional",
@@ -19,7 +20,7 @@
     "CompetenciasHard": [
         "Pandas", "Numpy", "Matplotlib", "Requests", "OpenCV", "BeautifulSoup", "Plotly", "Selenium", "PyAutoGui", 
         "PyGame", "Tkinter", "Streamlit", "Seaborn", "Propeth", "Pytorch", "Tensorflow", "SCSS", "Prototipagem",
-        "Office", "Data Visualization", "Data Presentation", "Conversar com a bia"
+        "Office", "Data Visualization", "Data Presentation"
 
     ],
     "CompetenciasSoft": [

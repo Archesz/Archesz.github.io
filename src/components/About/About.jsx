@@ -34,8 +34,28 @@ function About() {
                         )
                     })}
                 </div>
+                
+                <div className="about-more">
+
+                    <div className="about-interess">
+                        <span className="about-interesse-label">Interesses</span>
+                    </div>
+                    
+                    <div className="interesses">
+                        <Badge type="skill" name="Machine Learning"/>
+                        <Badge type="skill" name="Computer Vision"/>
+                        <Badge type="skill" name="Image Processing"/>
+                        <Badge type="skill" name="Data Science"/>
+                        <Badge type="skill" name="Web Development"/>
+                        <Badge type="skill" name="Education"/>
+                        <Badge type="skill" name="Science"/>
+                    </div>
+
+                </div>
 
             </div>
+
+
             
         </div>
     )

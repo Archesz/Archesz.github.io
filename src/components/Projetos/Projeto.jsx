@@ -1,31 +1,23 @@
 import React from 'react'
 import './Projetos.scss'
+import Badge from '../Badge/Badge'
+import {AiOutlineRight} from 'react-icons/ai'
 
 function Projeto(props) {
     return (
         <div className="projeto-container">
 
             <div className="projeto-infos">
-                <span className="projeto-name">{props.name}</span>
-                <span className="projeto-data">{props.data}</span>
-
+                <span className="projeto-name">Nome: {props.name}</span>
+                <span className="projeto-data">Repositório: <a className="link-repository" href={props.repository}>{props.repository}</a></span>
+                <span className="projeto-data">Tipo de Projeto:</span>
+                <Badge type="type" name={props.tipo}/>
+                <Badge type="type" name={props.tipo}/>
+                <span className="projeto-label">Descrição:</span>
                 <span className="projeto-descript">{props.descript}</span>
             </div>
-            
 
-            <div className="projeto-skills">
-                
-                <span className="projeto-utility">Utilizado</span>
-                
-                {props.skills.map((skill) => {
-                    return(
-                        <span className="li-skill">{skill}</span>
-                    )
-                })}
-
-            </div>
-
-
+            <AiOutlineRight className="icon-next" onClick={props.next}/>
 
         </div>
     )

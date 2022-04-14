@@ -33,32 +33,38 @@
     ], 
     "Projetos": [
         {
-        "id": 1, "name": "GoFlux", "data": "2021-2022", 
+        "id": 1, "name": "GoFlux", "repository": "https://github.com/Archesz/softwareInccsight", 
+        "tipo": "Machine Learning",
         "skills": ["Pandas", "Numpy", "Scikit Learn", "Plotly"], 
         "descript": "Para uma empresa de transporte e entrega, foi utilizado o banco de dados da empresa para realizar um aprendizado de máquina que encontrava o melhor valor e a se cobrar dado alguns fatores, encontrando o melhor valor que o cliente aceitaria pagar."
         },
         {
-        "id": 2, "name": "UFBA", "data": "2021-2022", 
+        "id": 2, "name": "UFBA", "repository": "https://github.com/Archesz/softwareInccsight", 
+        "tipo": "Machine Learning",
         "skills": ["Python", "Pandas", "Web Scraping", "Storytelling", "Analise de dados"], 
         "descript": "Em conjunto ao grupo de pesquisa da UFBA, foi realizado coleta de dados (Web Scraping) de notícias e tweets a respeito do governo Bolsonaro. Foi realizado uma análise a cerca desses dados, encontrando vieses, relações e entregando insights aos pesquisadores."
         },
         {
-        "id": 3, "name": "Dashboard", "data": "2021-2022", 
+        "id": 3, "name": "Dashboard", "repository": "https://github.com/Archesz/softwareInccsight", 
+        "tipo": "Machine Learning",
         "skills": ["Python", "Power BI", "Excel"], 
         "descript": "Devido a grande quantidade de dados e informações que a empresa possuia, foi realizado uma construção de Dashboard para a mesma. O dashboard teve o objetivo de encontrar, analisar e entregar resultados para que o time de gerenciamento pudesse organizar melhor suas equipes e produtos."
         },
         {
-        "id": 4, "name": "T2 Web Scraping", "data": "2021-2022", 
+        "id": 4, "name": "T2 Web Scraping", "repository": "https://github.com/Archesz/softwareInccsight", 
+        "tipo": "Machine Learning",
         "skills": ["Python", "Web Scraping", "API", "Automação de tarefas"], 
         "descript": "Foi construído um sistema de coleta de dados automática do site da OLX. O sistema coletava informações a respeito de veículos, desde modelo, marca, preço, entre outros. Em seguida foi realizado uma automatização parav verificar cada dado coletado e comparar com os mesmos veiculos em outro banco de dados."
         },
         {
-        "id": 5, "name": "Game Image Proccess", "data": "2021-2022", 
+        "id": 5, "name": "Game Image Proccess", "repository": "https://github.com/Archesz/softwareInccsight", 
+        "tipo": "Machine Learning",
         "skills": ["Python", "Numpy", "C", "Unity"], 
         "descript": "Em conjunto com o mentor Hallison Paz (Alforriah), foi desenvolvido um jogo baseado no processamento de imagens. O usuário desenha uma imagem em uma folha de papel e submete ao site, que transforma o desenho do usuário em um mapa jogável."
         },
         {
-        "id": 6, "name": "Plataforma Ask", "data": "2021-2022", 
+        "id": 6, "name": "Plataforma Ask", "repository": "https://github.com/Archesz/softwareInccsight", 
+        "tipo": "Machine Learning",
         "skills": ["Javascript", "Node", "React", "SCSS", "Python", "Banco de Dados"], 
         "descript": "Seguindo Rocketseat, foi desenvolvido uma plataforma Web moderna completa. Os usuários podem se cadastrar e logar, realizar e responder perguntas, entrar em salas de tópicos específicos e debater. A plataforma se encontra em: ..."
         }
