@@ -64,9 +64,8 @@
         },
         {
         "id": 6, "name": "Portfolio", "repository": "https://github.com/Archesz/portfolio-page", 
-        "tipo": "Machine Learning",
-        "skills": ["Javascript", "Node", "React", "SCSS", "Python", "Banco de Dados"], 
-        "descript": "Seguindo Rocketseat, foi desenvolvido uma plataforma Web moderna completa. Os usuários podem se cadastrar e logar, realizar e responder perguntas, entrar em salas de tópicos específicos e debater. A plataforma se encontra em: ..."
+        "tipo": "Desenvolvimento Web | Frontend",
+        "descript": "Esse próprio 'Site Curriculo' foi um projeto desenvolvido por mim do zero. Foi utilizado tecnologias frontend no ambiente React, com a estrutura separada em componentes e leitura de dados JSON para preenchimento das informações. Foi utilizado também o SCSS para estilização, além de algumas dependências Js para corrigir problemas e"
         }
     ]
 }
