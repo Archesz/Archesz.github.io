@@ -32,7 +32,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### Technologys
 
 ### Etapas
+
 [x] Prototipagem
+
 [x] Desenvolvimento Frontend V1
+
 [x] Desenvolvimento Frontend V2
+
 [ ] Responsividade
