@@ -33,7 +33,7 @@ function Perfil() {
 
             <div className="perfil-skills">
 
-                <span className="title">Main Techs</span>
+                <span className="title">Tecnologias Principais</span>
 
                 <div className="main-skills">
 

@@ -1,6 +1,6 @@
 {
     "Experiences": [
-        {
+        {   
             "id": 1,
             "title": "Iniciação Científica", "enterprise": "CNPQ", 
             "resume": "Durante a iniciação científica na Faculdade de Engenharia Eletríca e da Computação, orientado pela professora Letícia Rittner, realizo um projeto de processamento de imagens médicas de tensores de difusão. Aplicando métodos matemáticos e construindo uma ferramenta Open Source para o uso dos métodos.", 

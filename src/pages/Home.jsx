@@ -18,7 +18,7 @@ function Home() {
 
         <div className="main">
 
-          <h2 className="apresentation">Hello, i am jovi!</h2>
+          <h2 className="apresentation">Olá, sou o Jovi!</h2>
 
           <About />
           <Skills/>

@@ -13,6 +13,7 @@ function Skill(props) {
     }}
     data-tip data-for={props.name}
     >
+    
     <ReactTooltip id={props.name} place="bottom" effect="solid" type="info" className="skill-tooltip">
       {props.name}
     </ReactTooltip>

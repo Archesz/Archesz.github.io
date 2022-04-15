@@ -28,7 +28,7 @@ function Skills() {
 
           <div className="skills-left">
             <span className="skills-title">Tecnologias | Hard Skills </span>
-            <span className="skills-help">Passe o mouse sobre o icone para ler mais.</span>
+            <span className="skills-help">Tecnologias que tenho conhecimento ou experiência de uso.</span>
           </div>
 
           <div className="skills-right">

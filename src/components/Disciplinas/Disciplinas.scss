@@ -1,0 +1,56 @@
+#academico-container{
+    width: 1300px;
+    height: 450px;
+    padding: 30px 10px 60px 20px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 6px black;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    
+    .academico-title{
+        font-weight: bolder;
+        color: white;
+        font-size: 28px;
+        margin-bottom: 12px;
+    }
+
+    .academico-materias{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .academico-disciplinas{
+        width: 95%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .checkbox{
+        width: 20px;
+        height: 20px;
+        margin-bottom: 3px;
+        border-radius: 6px;
+        border: 1px solid white;
+        background-color: #fff;
+        box-shadow: 4px 2px 2px black;
+    }
+
+    .checkbox-text{
+        color: white;
+        margin-left: 12px;
+        font-weight: bold;  
+    }
+
+    .checked{
+        transition: .8s;
+        background-color: rgb(120, 200, 120);
+        border: none;
+    }
+
+    .text_checked{
+        text-decoration: line-through;
+    }
+}

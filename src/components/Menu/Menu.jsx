@@ -22,6 +22,7 @@ function Menu() {
             <div className="menu-items">
                 <a href="#">Home</a>
                 <a href="#">Habilidades</a>
+                <a href="#">Projetos</a>
                 <a href="#">Experiências</a>
                 <a href="#">Projetos</a>
             </div>
