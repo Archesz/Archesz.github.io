@@ -11,8 +11,8 @@
         {"name": "C", "url": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png", "color": "659AD2"},
         {"name": "Excel", "url": "https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png", "color": "3A3A3A"},
         {"name": "Node", "url": "https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png", "color": "3A3A3A"},
-        {"name": "Power BI", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png", "color": "252525"}
-
+        {"name": "Power BI", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png", "color": "252525"},
+        {"name": "DaVinci", "url": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/DaVinci_Resolve_logo.png/200px-DaVinci_Resolve_logo.png", "color": "3a3a3a"}
     ],
     "Soft": [
         "Pesquisa", "Matemática", "Machine Learning", "Didática", "Ciência de Dados", "Web Scraping", "Programação", "Processamento de Imagens", "Visão Computacional",
